@@ -41,7 +41,7 @@ public class RecursiveFunctions {
     }
 
     public static boolean recursivePalindrome(String word) {
-        return false;
+        return true;
     }
 
 
